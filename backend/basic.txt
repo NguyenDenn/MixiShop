@@ -1,0 +1,8 @@
+follow modular
+
+1.Interface
+2.Model and mongo schema
+3.zod validation schema
+4. route
+5. controller
+6. services
